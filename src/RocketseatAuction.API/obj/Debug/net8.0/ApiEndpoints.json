@@ -1,0 +1,27 @@
+[
+  {
+    "ContainingType": "RocketseatAuction.API.Controllers.AuctionController",
+    "Method": "GetCurrentAction",
+    "RelativePath": "Auction",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "RocketseatAuction.API.Entitites.Auction",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      }
+    ]
+  }
+]
